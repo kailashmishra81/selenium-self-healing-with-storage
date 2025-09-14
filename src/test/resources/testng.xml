@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Selenium-Healer-Suite" verbose="1">
+    <listeners>
+        <listener class-name="org.example.listeners.ExtentReportListener"/>
+    </listeners>
+    <test name="MyTests">
+        <classes>
+            <!-- Runs in this order -->
+             <class name="org.example.tests.SauceDemoTest"/>
+       </classes>
+    </test>
+
+</suite>

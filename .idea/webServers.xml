@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="468b569e-06b3-49c2-90e3-c5d4e1bcb97b" name="GCP_VM">
+        <fileTransfer rootFolder="/home/kailasa_kailash/selenium-ai-healing" accessType="SFTP" host="34.31.212.165" port="22" sshConfigId="646c0b0f-2bcf-47f7-b272-1c883c18cb11" sshConfig="kailasa_kailash@34.31.212.165:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

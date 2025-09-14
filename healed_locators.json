@@ -1,0 +1,7 @@
+{
+  "login.username" : "id=user-name",
+  "checkout.firstname" : "id=first-name",
+  "checkout.lastname" : "name=lastName",
+  "login.button" : "id=login-button",
+  "checkout.postalcode" : "id=postal-code"
+}
